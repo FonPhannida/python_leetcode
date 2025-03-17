@@ -4,11 +4,11 @@
 # print(A)
 
 
-print("Please input total number of country stamps: ")
+print("Please input total number of array: ")
 arr_count = int(input().strip())
 
 arr =[]
-print("Please input country stamps one by one: ")
+print("Please input number one by one: ")
 for i in range(arr_count):
      arr.append(int(input().strip()))
 
